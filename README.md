@@ -7,7 +7,7 @@ py -m venv env
 
 #prerequis: 
 
-pip install -r reuiqrements.txt
+pip install -r requirements.txt
 
 run app: 
 streamlit run app.py           
@@ -28,4 +28,4 @@ Streamlit Sharing déploiera votre application et vous fournira un lien public q
 Si vous souhaitez plus de contrôle sur votre hébergement ou si vous avez besoin de ressources supplémentaires, vous pouvez envisager d'autres options d'hébergement comme Heroku, AWS, Google Cloud ou Microsoft Azure.
 
 #Lien de l'application CheckVg
-#https:https://share.streamlit.io/
+#https:http://localhost:8501/
